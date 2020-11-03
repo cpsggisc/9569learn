@@ -45,7 +45,7 @@ On the other hand, GitHub is a cloud-based **hosting service** that lets you man
 
 *Forking a repository* means that you're making a copy of someone's project. To do this on GitHub, on the top-right corner of the page, click `Fork`. 
 
-![Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled.png](Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled.png)
+![Untitled.png](Untitled.png)
 
 ### Task 1
 
@@ -71,7 +71,7 @@ In your forked repository, create 2 folders, one called `Databases` and `DeleteM
 
 Browse to the file in your repository that you want to delete. Locate the dustbin icon on the top right hand corner of the editor (next to the pencil icon) and click on it. Click `Commit changes` afterwards.
 
-![Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%201.png](Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%201.png)
+![Untitled2.png](Untitled2.png)
 
 ### Task 3
 
