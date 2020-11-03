@@ -85,15 +85,15 @@ When you open a `pull request`, you're proposing your changes and requesting tha
 
 To do this, click on `Pull request` on top of your repository. 
 
-![Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%202.png](Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%202.png)
+![Untitled2.png](Untitled2.png)
 
 In the next page, click on `Create pull request` .
 
-![Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%203.png](Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%203.png)
+![Untitled3.png](Untitled3.png)
 
 Afterwards, you will be brought to a page where you can detail the changes you made to the repo and your rationale for doing so. The owner of the repo that you fork from will have the ability to authorize your requests and merge your repo with their existing one.  
 
-![Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%204.png](Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%204.png)
+![Untitled4.png](Untitled4.png)
 
 ### Task 4
 
