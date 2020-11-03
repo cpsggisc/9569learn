@@ -35,7 +35,7 @@ There are multiple version control systems out there like Apache's `Subversion`,
 
 # Git and GitHub
 
-> Git $\neq$ GitHub
+> Git $$\neq$$ GitHub
 
 Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. ʳᵉᶠ TLDR: Git is a program that tracks changes made to files. To use Git on your local machine, you need to install it from [git-scm.com](http://git-scm.com).
 
