@@ -1,6 +1,20 @@
 # 9569learn
 9569 Learning Group
 
+- [Version Control](#version-control)
+- [So, what is Version Control?](#so--what-is-version-control-)
+- [Git and GitHub](#git-and-github)
+  * [Forking a Repository on GitHub](#forking-a-repository-on-github)
+    + [Task 1](#task-1)
+  * [Creating a Folder On GitHub](#creating-a-folder-on-github)
+    + [Task 2](#task-2)
+  * [Deleting a File On GitHub](#deleting-a-file-on-github)
+    + [Task 3](#task-3)
+  * [Pull Request](#pull-request)
+  * [Markdown Language](#markdown-language)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # Version Control
 
 > Save Early, Save Often — *Every programmer who lost their code*
