@@ -10,8 +10,8 @@
     + [Task 2](#task-2)
   * [Deleting a File On GitHub](#deleting-a-file-on-github)
     + [Task 3](#task-3)
-  * [Pull Request](#pull-request)
-  * [Markdown Language](#markdown-language)
+  * [Pull Request in GitHub](#pull-request-in-github)
+    + [Task 4](#task-4)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
