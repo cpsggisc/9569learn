@@ -77,10 +77,24 @@ Browse to the file in your repository that you want to delete. Locate the dustbi
 
 Delete the file `mysql.py` in the folder `DeleteMe`. What happens to the folder `DeleteMe` in your repository?
 
-## Pull Request
+You would have noticed the word `commit` being used repeatedly. This is actually the mechanism behind how `git` work. Roughly speaking, `commit`  saves the changes you made in your local repository without affecting the original repository.
 
-## Markdown Language
+## Pull Request in GitHub
 
-[https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312](https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+When you open a `pull request`, you're proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. This feature is a very useful feature when you're trying to improve someone's code and collaborate with them. 
 
-[BRW ](https://www.notion.so/BRW-8ae084e0afe14be0baed22db6fcdb408)
+To do this, click on `Pull request` on top of your repository. 
+
+![Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%202.png](Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%202.png)
+
+In the next page, click on `Create pull request` .
+
+![Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%203.png](Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%203.png)
+
+Afterwards, you will be brought to a page where you can detail the changes you made to the repo and your rationale for doing so. The owner of the repo that you fork from will have the ability to authorize your requests and merge your repo with their existing one.  
+
+![Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%204.png](Version%20Control%20163e0801d7b74c45b99654c3cfae4e9a/Untitled%204.png)
+
+### Task 4
+
+Create a file named `YOUR_NAME.txt` in your repo, inside the file, type what cool thing thing you would like to do whilst learning computing and do a `pull request`.
