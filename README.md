@@ -51,7 +51,7 @@ On the other hand, GitHub is a cloud-based **hosting service** that lets you man
 
 Fork this repository to add to your own GitHub account. 
 
-After forking, your will arrive at `[github.com/YOUR_ACCOUNT/9569learn](http://github.com/YOUR_ACCOUNT/9569learn)` , your own copy of the repository.
+After forking, your will arrive at `github.com/YOUR_ACCOUNT/9569learn` , your own copy of the repository.
 
 ## Creating a Folder On GitHub
 
@@ -71,11 +71,11 @@ In your forked repository, create 2 folders, one called `Databases` and `DeleteM
 
 Browse to the file in your repository that you want to delete. Locate the dustbin icon on the top right hand corner of the editor (next to the pencil icon) and click on it. Click `Commit changes` afterwards.
 
-![Untitled2.png](Untitled2.png)
+![Untitled1.png](Untitled1.png)
 
 ### Task 3
 
-Delete the file [`mysql.py`](http://mysql.py) in the folder `DeleteMe`. What happens to the folder `DeleteMe` in your repository?
+Delete the file `mysql.py` in the folder `DeleteMe`. What happens to the folder `DeleteMe` in your repository?
 
 ## Pull Request
 
